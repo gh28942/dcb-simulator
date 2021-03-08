@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dcb-simulator/static/css/main.7a703c32.chunk.css",
+    "main.js": "/dcb-simulator/static/js/main.8a062965.chunk.js",
+    "main.js.map": "/dcb-simulator/static/js/main.8a062965.chunk.js.map",
+    "runtime-main.js": "/dcb-simulator/static/js/runtime-main.4e918012.js",
+    "runtime-main.js.map": "/dcb-simulator/static/js/runtime-main.4e918012.js.map",
+    "static/css/2.bac56067.chunk.css": "/dcb-simulator/static/css/2.bac56067.chunk.css",
+    "static/js/2.effe3d63.chunk.js": "/dcb-simulator/static/js/2.effe3d63.chunk.js",
+    "static/js/2.effe3d63.chunk.js.map": "/dcb-simulator/static/js/2.effe3d63.chunk.js.map",
+    "index.html": "/dcb-simulator/index.html",
+    "precache-manifest.8756449b8bf4d0258cc511546b7585d7.js": "/dcb-simulator/precache-manifest.8756449b8bf4d0258cc511546b7585d7.js",
+    "service-worker.js": "/dcb-simulator/service-worker.js",
+    "static/css/2.bac56067.chunk.css.map": "/dcb-simulator/static/css/2.bac56067.chunk.css.map",
+    "static/css/main.7a703c32.chunk.css.map": "/dcb-simulator/static/css/main.7a703c32.chunk.css.map",
+    "static/js/2.effe3d63.chunk.js.LICENSE.txt": "/dcb-simulator/static/js/2.effe3d63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e918012.js",
+    "static/css/2.bac56067.chunk.css",
+    "static/js/2.effe3d63.chunk.js",
+    "static/css/main.7a703c32.chunk.css",
+    "static/js/main.8a062965.chunk.js"
+  ]
+}
